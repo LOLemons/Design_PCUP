@@ -1,4 +1,4 @@
-# Design_PCUP
+# SignCam
 Welcome to SignCam: A program that allows you to convert ASL signs to text in real time.
 
 This project was made keeping in mind the communication barriers faced by the speech-impaired and the hard of hearing, and our aim is to bridge those gaps.
